@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-hai i am shahana ms
+hai i am Shahana ms
 Use the left arrow to go back!
